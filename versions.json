@@ -1,5 +1,8 @@
 {
-  "sunnyside": "1.0.0",
-  "gameadmin": "1.0.0",
-  "changeme": "1.2.0"
+    "version": "1.0.0",
+    "changelog": [
+        "Initial release.",
+        "Added new features.",
+        "Fixed bugs."
+    ]
 }
