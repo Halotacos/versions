@@ -1,8 +1,8 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "changelog": [
-        "Initial release.",
-        "Added new features.",
+        "Reworking the Permission System",
+        "Working on adding new commands and other items.",
         "Fixed bugs."
     ]
 }
