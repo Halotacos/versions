@@ -1,8 +1,28 @@
 {
-    "version": "1.0.2",
-    "changelog": [
+  "versions": [
+    {
+      "version": "1.0.2",
+      "changelog": [
         "Reworking the Permission System",
         "Working on adding new commands and other items.",
         "Fixed bugs."
-    ]
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "changelog": [
+        "Initial release",
+        "Added basic commands and functionality",
+        "Set up the database schema"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "changelog": [
+        "Project setup",
+        "Defined initial requirements",
+        "Created initial project structure"
+      ]
+    }
+  ]
 }
