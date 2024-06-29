@@ -3,7 +3,7 @@
     {
       "version": "1.0.2",
       "changelog": [
-        "Reworking the Permission System",
+        "Reworked the Permission System from 1.0.1 allowing for better use of the setup command.",
         "Working on adding new commands and other items.",
         "Fixed bugs."
       ]
