@@ -1,8 +1,50 @@
 {
-    "version": "1.0.0",
-    "changelog": [
-        "Initial release.",
-        "Added new features.",
-        "Fixed bugs."
-    ]
+  "resources": {
+    "boat": {
+      "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": [
+        "Public Release",
+        "Worked on some minor bugs",
+        "updated ULC file"
+      ]
+    },
+    {
+      "version": "0.0.2",
+      "changelog": [
+        "Initial release",
+        "Added basic commands and functionality",
+        "Set up the database schema"
+      ]
+    },
+    {
+      "version": "0.0.1",
+      "changelog": [
+        "Project setup",
+        "Defined initial requirements",
+        "Created initial project structure"
+      ]
+    }
+      ]
+    },
+    "script": {
+      "versions": [
+        {
+          "version": "1.0.2",
+          "changelog": [
+            "Improved performance.",
+            "Fixed major bugs."
+          ]
+        },
+        {
+          "version": "1.0.1",
+          "changelog": [
+            "Added new features.",
+            "Initial release."
+          ]
+        }
+      ]
+    }
+  }
 }
