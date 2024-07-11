@@ -1,0 +1,26 @@
+{
+  "versions": [
+    {
+      "version": "1.0.0",
+      "changelog": [
+        "Public Release"
+      ]
+    },
+    {
+      "version": "0.0.2",
+      "changelog": [
+        "Initial release",
+        "Added basic commands and functionality",
+        "Set up the database schema"
+      ]
+    },
+    {
+      "version": "0.0.1",
+      "changelog": [
+        "Project setup",
+        "Defined initial requirements",
+        "Created initial project structure"
+      ]
+    }
+  ]
+}
