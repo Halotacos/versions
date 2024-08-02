@@ -31,16 +31,16 @@
         "unknown_bre-ALS": {
             "versions": [
                 {
-                    "version": "1.0.0",
-                    "changelog": [
-                        "Version 1 | Contact NDC© for Support"
-                    ]
-                },
-                {
                     "version": "1.0.1",
                     "changelog": [
                         "Changed Side White Style",
                         "Updated a small texture | Contact NDC© for Support"
+                    ]
+                },
+                {
+                    "version": "1.0.0",
+                    "changelog": [
+                        "Version 1 | Contact NDC© for Support"
                     ]
                 }
             ]
