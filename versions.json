@@ -60,16 +60,16 @@
         "deputyjosh": {
             "versions": [
                 {
-                    "version": "0.0.1",
-                    "changelog": [
-                        "Version 1 | Contact NDC© for Support"
-                    ]
-                },
-                {
                     "version": "1.0.0",
                     "changelog": [
                         "Fixed issues with collisions on FPIUs and FPIS",
                         "Optimized Texture files",
+                        "Version 1 | Contact NDC© for Support"
+                    ]
+                },
+                {
+                    "version": "0.0.1",
+                    "changelog": [
                         "Version 1 | Contact NDC© for Support"
                     ]
                 }
