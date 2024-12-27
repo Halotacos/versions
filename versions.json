@@ -57,6 +57,16 @@
                 }
             ]
         },
+        "g17v2": {
+            "versions": [
+                {
+                    "version": "0.0.1",
+                    "changelog": [
+                        "Version 1 | Contact NDC© for Support"
+                    ]
+                }
+            ]
+        },
         "deputyjosh": {
             "versions": [
                 {
