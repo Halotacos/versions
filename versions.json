@@ -33,9 +33,8 @@
                 {
                     "version": "0.0.1",
                     "changelog": [
-                        "Project setup",
-                        "Defined initial requirements",
-                        "Created initial project structure"
+                        "Release version.",
+                        "Working on a Fix for the ULC Issues"
                     ]
                 }
             ]
