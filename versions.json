@@ -94,6 +94,24 @@
                 }
             ]
         },
+        "massExpd": {
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "changelog": [
+                        "Fixed issues with the Headlights / ExtraLights",
+                        "Optimized Texture files",
+                        "Version 1 | Contact NDC© for Support"
+                    ]
+                },
+                {
+                    "version": "0.0.1",
+                    "changelog": [
+                        "Version 1 | Contact NDC© for Support"
+                    ]
+                }
+            ]
+        },
         "script": {
             "versions": [
                 {
