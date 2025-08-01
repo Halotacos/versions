@@ -28,6 +28,32 @@
                 }
             ]
         },
+        "1200rt": {
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "changelog": [
+                        "Version 1 Release",
+                        "More Texture Optimization",
+                        "Ipdated ULC file"
+                    ]
+                },
+                {
+                    "version": "0.0.2",
+                    "changelog": [
+                        "Optimized Textures",
+                        "Added LODs to L3",
+                        "Fixed Issues with Code 3 Lightpods"
+                    ]
+                },
+                {
+                    "version": "0.0.1",
+                    "changelog": [
+                        "First Version"
+                    ]
+                }
+            ]
+        },
         "lightning": {
             "versions": [
                 {
