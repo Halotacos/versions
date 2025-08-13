@@ -31,6 +31,14 @@
         "LEOBIKE2": {
             "versions": [
                 {
+                    "version": "1.0.1",
+                    "changelog": [
+                        "Fixed Issues with Texture not being Power of 2",
+                        "Updated Server.lua",
+                        "Changes to Files | server.lua, YTDs, & YFTs"
+                    ]
+                },
+                {
                     "version": "1.0.0",
                     "changelog": [
                         "Version 1 Release",
