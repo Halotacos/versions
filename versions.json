@@ -123,6 +123,13 @@
         "massExpd": {
             "versions": [
                 {
+                    "version": "1.0.1",
+                    "changelog": [
+                        "Updated Server-Sided Script / Updater",
+                        "No Other File Changes"
+                    ]
+                },
+                {
                     "version": "1.0.0",
                     "changelog": [
                         "Fixed issues with the Headlights / ExtraLights",
