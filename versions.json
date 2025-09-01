@@ -62,7 +62,7 @@
                 }
             ]
         },
-        "njsp-commission": {
+        "njspcommission": {
             "versions": [
                 {
                     "version": "1.0.0",
