@@ -128,6 +128,16 @@
                 }
             ]
         },
+        "tomriver": {
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "changelog": [
+                        "Version 1 | Contact NDC© for Support"
+                    ]
+                }
+            ]
+        },
         "deputyjosh": {
             "versions": [
                 {
